@@ -1,0 +1,9 @@
+# npm files
+node_modules/
+npm-debug.log
+
+# data
+data/
+
+# local environment configuration
+.env

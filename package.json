@@ -1,0 +1,19 @@
+{
+  "name": "stream-dsp-poc",
+  "version": "0.0.1",
+  "description": "Proof of concept for audio DSP using streams.",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node ."
+  },
+  "keywords": [],
+  "author": "Martin Valdes de Leon <m.valdesdeleon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.14.0",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "lame": "^1.2.4",
+    "speaker": "^0.3.0"
+  }
+}
